@@ -105,7 +105,7 @@ const Footer = () => {
                         <Grid container spacing={2} justify="space-between">
                             <Grid item md={12} xs={12} >
                                 <Button size="small" backgroundColor="white" color="white" style={{ backgroundColor: "#444548", color: "white" }}>
-                                    <Mail /><a href="mailto: expertec104@gmail.com" style={{textDecoration: "none",color:"inherit"}} >expertec104@gmail.com</a>
+                                    <Mail /><a href="mailto: info@expertedu.com" style={{textDecoration: "none",color:"inherit"}} > info@expertedu.com</a>
                                 </Button>
                             </Grid>
                             <Grid item md={12} xs={12} >
