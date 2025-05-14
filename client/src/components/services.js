@@ -95,7 +95,7 @@ const Services = () => {
                         </ListItemButton>
                     </ListItem>
                     <ListItem disablePadding>
-                        <ListItemButton component="a" href="/EXPERT_NEET_PG_SERVICES_2024.pdf" target="_blank">
+                        <ListItemButton component="a" href="/EXPERT_NEET_PG_SERVICES_2025.pdf" target="_blank">
                             <ListItemText primary="PG Service Brochure" />
                         </ListItemButton>
                     </ListItem>
