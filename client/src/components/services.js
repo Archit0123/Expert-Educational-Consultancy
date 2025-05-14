@@ -90,7 +90,7 @@ const Services = () => {
                     boxShadow: "0px 0px 6px 2.5px #fea905 ,1px 1px 1px 0px #ECDE65,1px 1px 1px 0px #ECDE65",
                 }}>
                     <ListItem disablePadding>
-                        <ListItemButton component="a" href="/EXPERT_NEET_UG_SERVICES_2024.pdf" target="_blank">
+                        <ListItemButton component="a" href="/EXPERT_NEET_UG_SERVICES_2025.pdf" target="_blank">
                             <ListItemText primary="UG Service Brochure" />
                         </ListItemButton>
                     </ListItem>
